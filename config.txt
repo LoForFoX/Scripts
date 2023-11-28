@@ -1,0 +1,6 @@
+#Name jar-archive:
+GameOfLife.jar
+#Path to file.java:
+\loforfox\java
+#path to manifest:
+\loforfox\resources\manifest.mf
